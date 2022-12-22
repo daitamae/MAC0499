@@ -21,7 +21,7 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 
 ## Proposal
 
-[Download](./proposal.pdf)
+[Download](./proposal.pdf) | [Online](https://drive.google.com/file/d/1q42hEKJk0hAwQX0P6EXLSV8Kt-3zM9kN/view?usp=sharing)
 
 ## Poster
 
