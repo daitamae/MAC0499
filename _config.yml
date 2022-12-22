@@ -5,3 +5,4 @@ plugins:
 title: MAC0499
 description: Capstone Project
 logo: /assets/logo.png
+show_downloads: true
