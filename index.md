@@ -1,6 +1,6 @@
 #  Building an inteligent system to detect respiratory insufficiency
 
-### Page for the discipline MAC0499 - Capstone Project - from IME-USP.
+Page for the discipline MAC0499 - Capstone Project - from IME-USP.
 
 ### **Members:** Vitor Daisuke Tamae (10705620)
 
@@ -50,3 +50,6 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 | ML Pipeline | <https://github.com/spirabr/Inference-System-ML-Pipeline> | 
 | Deployed PWA | <https://spira-inference.netlify.app> | 
 
+## Contact Information
+
+Any questions? Send an e-mail to dai.tamae at usp.br
