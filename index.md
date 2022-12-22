@@ -43,12 +43,12 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 
 | Description | Link |
 | --- | --- |
-| Development of the API Service | <https://github.com/spirabr/SPIRA-API> |
-| Development of the Model Server | <https://github.com/spirabr/SPIRA-Inference-Service> |
-| Production Inference System | <https://github.com/spirabr/SPIRA-Inference-System> | 
-| Inference PWA | <https://github.com/spirabr/PWA-App/tree/production> | 
-| ML Pipeline | <https://github.com/spirabr/Inference-System-ML-Pipeline> | 
-| Deployed PWA | <https://spira-inference.netlify.app> | 
+| Development of the API Service | [SPIRA-API](https://github.com/spirabr/SPIRA-API) |
+| Development of the Model Server | [SPIRA-Inference-Service](https://github.com/spirabr/SPIRA-Inference-Service) |
+| Production Inference System | [SPIRA-Inference-System](https://github.com/spirabr/SPIRA-Inference-System) | 
+| Inference PWA | [https://github.com/spirabr/PWA-App/tree/production](https://github.com/spirabr/PWA-App/tree/production) | 
+| ML Pipeline | [https://github.com/spirabr/Inference-System-ML-Pipeline](https://github.com/spirabr/Inference-System-ML-Pipeline) | 
+| Deployed PWA | [https://spira-inference.netlify.app](https://spira-inference.netlify.app) | 
 
 ## Contact Information
 
