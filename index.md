@@ -1,4 +1,6 @@
-# MAC0499 - Capstone Project
+#  Building an inteligent system to detect respiratory insufficiency
+
+### Page for the discipline MAC0499 - Capstone Project - from IME-USP.
 
 ### **Members:** Vitor Daisuke Tamae (10705620)
 
@@ -6,8 +8,6 @@
   - Prof. Dr. Alfredo Goldman
   - Prof. Dr. Marcelo Finger
   - MSc. Renato Cordeiro Ferreira
-
-### **Title:** Building an inteligent system to detect respiratory insufficiency
 
 ### **Summary:**
 
