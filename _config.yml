@@ -1,3 +1,3 @@
-
-markdown: index.md
 theme: minima
+include:
+  - index.md
