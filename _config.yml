@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme
 
 title: MAC0499
-description: Capstone Project
+description: Bachelor's Monograph
 logo: /assets/logo.png
 show_downloads: true

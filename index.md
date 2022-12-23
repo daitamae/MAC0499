@@ -18,23 +18,23 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 
 ## Proposal
 
-[Download](./proposal.pdf) | [Online](https://drive.google.com/file/d/1q42hEKJk0hAwQX0P6EXLSV8Kt-3zM9kN/view?usp=sharing)
+[Download](./proposal.pdf)
 
 ## Poster
 
-[Download](./poster.pdf) | [Online](https://drive.google.com/file/d/15dbV7KsLiHwZkQgYzuRGgUEF9nNb5awS/view?usp=sharing)
+[Download](./poster.pdf)
 
 ## Presentation
 
-[Download](./presentation.pptx) | [Online](https://docs.google.com/presentation/d/1RKhTTkeD6HOD4D7IiNZX1Exfg9wI8em65-ypmwZVLkA/edit?usp=sharing)
+[Download](./presentation.pptx)
 
 ## Published Article
 
-[Download](./cbsoft.pdf) | [Online](https://drive.google.com/file/d/1AD1AxlDt6Sp83YW-6cOtSjgU_iNKuuqM/view?usp=sharing)
+[Download](./cbsoft.pdf)
 
 ## Monograph
 
-[Download](./Monograph.pdf) | [Online]()
+[Download](./Monograph.pdf)
 
 ## External Links
 
