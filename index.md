@@ -50,3 +50,6 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 ## Contact Information
 
 Any questions? Send an e-mail to dai.tamae at usp.br
+
+
+Page inspired by the [Bachelor's Monograph](https://renatocf.github.io/MAC0499/) of supervisor Renato Cordeiro Ferreira.
