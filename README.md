@@ -1,2 +1,3 @@
 # MAC0499
-Capstone Project
+
+This repository contains the homepage of my Bachelor's Monograph.
