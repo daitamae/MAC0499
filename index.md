@@ -1,20 +1,18 @@
-#  Building an inteligent system to detect respiratory insufficiency
+#  Building an Inteligent System to Detect Respiratory Insufficiency
 
-Page for the discipline MAC0499 - Capstone Project - from IME-USP.
+Page for the discipline MAC0499 - Capstone Project - at IME-USP.
 
 ### **Members:** Vitor Daisuke Tamae (10705620)
 
 ### **Supervisors:** 
   - Prof. Dr. Alfredo Goldman
   - Prof. Dr. Marcelo Finger
-  - MSc. Renato Cordeiro Ferreira
+  - M.Sc. Renato Cordeiro Ferreira
 
 ### **Summary:**
 
-Respiratory insufficiency or failure is a well-known medical symptom resultant from the inadequate gas exchange performed by the respiratory system. In 2020, respiratory insufficiency was identified as one of the severe symptoms of COVID-19 infection. The symptom is aggravated by a condition called _silent hypoxia_, low blood oxygen concentration without breath shortness, which particularly hinders its diagnosis. 
-[SPIRA](https://spira.ime.usp.br/coleta/) is a research project created during the COVID-19 pandemic to identify respiratory insufficiency via speech recordings with Machine Learning models. It involves doctors, speech therapists, linguistics, and computer scientists from different fields (artificial intelligence, computer music, software engineering) and was idealized as a tool for doctors and nurses to pre-diagnose this illness.
-After training a first batch of ML models to show that it is possible to make such pre-diagnoses, SPIRA envisions to create a new generation of more sophisticated models which will be tested in hospitals with real patients. Nevertheless, medical personnel do not have access to the SPIRA models, as they are not expected to have enough knowledge in Machine Learning to directly make predictions with them.
-Thus, the present research aims to provide the desired access to SPIRA models by designing, developing and deploying such an inference system to be used by medical personnel.
+Respiratory insufficiency is a symptom caused by the inadequate gas exchange performed by the respiratory system. [SPIRA](https://spira.ime.usp.br/coleta/) is a research project created during the COVID-19 pandemic to detect respiratory insufficiency via speech recognition based on Machine Learning models. The project is currently preparing to train a new generation of models that will be validated in hospitals with the help of medical personnel. Due to the demand for validation, one of the steps of this preparation phase is to build a new system that applies these models.
+This monograph describes the planning, implementation and deployment of an intelligent distributed inference system that allows medical personnel to perform a respiratory insufficiency pre-diagnosis using the models created by SPIRA. The research shows the advantages in responsiveness and resilience obtained by adopting a reactive microservices architecture. Moreover, it emphasizes the importance of MLOps in modern Machine Learning Engineering through the lessons learned from a preliminary system. The impacts on quality obtained by following these principles are highlighted with the implementation of a pipeline and a registry to automate the deploy of new models in the final version of the inference system. 
 
 ## Proposal
 
@@ -32,11 +30,15 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 
 [Download](./cbsoft.pdf)
 
+## Subjective Part
+
+[Download](./subjective_part.pdf)
+
 ## Monograph
 
 [Download](./Monograph.pdf)
 
-## External Links
+## Repositories
 
 | Description |
 | --- |
@@ -44,12 +46,11 @@ Thus, the present research aims to provide the desired access to SPIRA models by
 | [Development of the Model Server](https://github.com/spirabr/SPIRA-Inference-Service) |
 | [Production Inference System](https://github.com/spirabr/SPIRA-Inference-System) | 
 | [Development of the Inference PWA](https://github.com/spirabr/PWA-App/tree/feature/inference-app) | 
-| [ML Pipeline to deploy new models](https://github.com/spirabr/Inference-System-ML-Pipeline) | 
-| [App in Production](https://spira-inference.netlify.app) | 
+| [ML Pipeline to deploy new models](https://github.com/spirabr/Inference-System-ML-Pipeline) |
 
 ## Contact Information
 
 Any questions? Send an e-mail to dai.tamae at usp.br
 
 
-Page inspired by the [Bachelor's Monograph](https://renatocf.github.io/MAC0499/) of supervisor Renato Cordeiro Ferreira.
+<sub>Page inspired by the [Bachelor's Monograph](https://renatocf.github.io/MAC0499/) of supervisor Renato Cordeiro Ferreira</sub>
