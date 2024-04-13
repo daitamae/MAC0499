@@ -1,4 +1,4 @@
-#  Building an Inteligent System to Detect Respiratory Insufficiency
+#  Building an Intelligent System to Detect Respiratory Insufficiency
 
 Page for the discipline MAC0499 - Capstone Project - at IME-USP.
 
